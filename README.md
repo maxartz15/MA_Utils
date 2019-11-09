@@ -1,4 +1,4 @@
-# MA_Toolbox
+# MA_Utils
 A collection of utilities for Unity.
 
 ## Editor Utils
